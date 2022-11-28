@@ -1,0 +1,17 @@
+header {
+  position: sticky;
+  padding: 2rem 3rem;
+  background-color: #007fff;
+}
+
+nav ul {
+  list-style-type: none;
+  text-decoration: none;
+  display: flex;
+  gap: 50px;
+}
+
+nav ul a {
+  list-style-type: none;
+  text-decoration: none;
+}
